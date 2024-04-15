@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshnainala&label=Profile%20views&color=0e75b6&style=flat" alt="santoshnainala" /> </p>
 
-- 🌱 I’m currently learning **Python, Statistics, Machine Learning**
+- 🌱 I’m currently learning **Python, Statistics, Machine Learning, Deep Learning**
 
 - 💬 Ask me about **Python, Machine Learning, Data Science**
 
