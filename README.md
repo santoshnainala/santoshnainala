@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **Python, Statistics, Machine Learning, Deep Learning, Cybersecurity**
 
-- 👨‍💻 All of my projects are available at [https://santoshnainala.dresume.me](https://santoshnainala.dresume.me)
-
 - 💬 Ask me about **Python, Machine Learning, Data Science, Cybersecurity**
 
 - 📫 How to reach me **santosh.nainala@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Vht3EyZXU3a5O-NbQVbk1Bnj9q0awBeS/view?usp=sharing](https://drive.google.com/file/d/1Vht3EyZXU3a5O-NbQVbk1Bnj9q0awBeS/view?usp=sharing)
+- 📄 Know about my experiences [Click here](https://drive.google.com/file/d/1NhLmjt8YK1QG04G3wxJua_SWbq0Q260y/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
